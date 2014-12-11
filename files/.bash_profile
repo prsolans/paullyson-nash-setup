@@ -17,7 +17,7 @@ alias gp="git push"
 alias gl="git pull"
 
 # Navigate to...
-alias cdP="cd ~/Documents/Projects"
+alias vww="cd /var/www"
 alias hos="subl /etc/hosts"
 
 

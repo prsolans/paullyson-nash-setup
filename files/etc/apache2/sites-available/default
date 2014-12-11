@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin webmaster@localhost
-  ServerName teamserver.mergeworld.com
+  ServerName nashville.paullyson.com
 	DocumentRoot /var/www
 	RewriteLogLevel 9
 	RewriteLog ${APACHE_LOG_DIR}/vagrant.rewrite.log
